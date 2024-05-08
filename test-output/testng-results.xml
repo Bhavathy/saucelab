@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-07T17:57:44 IST" name="Default suite" finished-at="2024-05-07T17:58:03 IST" duration-ms="19345">
+    <groups>
+    </groups>
+    <test started-at="2024-05-07T17:57:44 IST" name="Default test" finished-at="2024-05-07T17:58:03 IST" duration-ms="19345">
+      <class name="TestSuites.TestCases">
+        <test-method is-config="true" signature="invokebrowser()[pri:0, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:57:44 IST" name="invokebrowser" finished-at="2024-05-07T17:57:50 IST" duration-ms="6291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokebrowser -->
+        <test-method signature="Login()[pri:1, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:57:50 IST" name="Login" finished-at="2024-05-07T17:57:53 IST" duration-ms="2788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Filtration()[pri:2, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:57:53 IST" name="Filtration" finished-at="2024-05-07T17:57:53 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filtration -->
+        <test-method signature="FetchDetails()[pri:3, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:57:53 IST" name="FetchDetails" finished-at="2024-05-07T17:57:54 IST" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FetchDetails -->
+        <test-method signature="AddItems()[pri:4, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:57:54 IST" name="AddItems" finished-at="2024-05-07T17:57:54 IST" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItems -->
+        <test-method signature="RemoveItem()[pri:5, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:57:54 IST" name="RemoveItem" finished-at="2024-05-07T17:57:55 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveItem -->
+        <test-method signature="EnterInvalidDetails()[pri:6, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:57:55 IST" name="EnterInvalidDetails" finished-at="2024-05-07T17:57:55 IST" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterInvalidDetails -->
+        <test-method signature="EnterDetails()[pri:7, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:57:55 IST" name="EnterDetails" finished-at="2024-05-07T17:57:56 IST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails -->
+        <test-method signature="FetchShippingDetails()[pri:8, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:57:56 IST" name="FetchShippingDetails" finished-at="2024-05-07T17:57:56 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FetchShippingDetails -->
+        <test-method signature="Finish()[pri:9, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:57:56 IST" name="Finish" finished-at="2024-05-07T17:57:56 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finish -->
+        <test-method signature="AboutUs()[pri:10, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:57:56 IST" name="AboutUs" finished-at="2024-05-07T17:58:01 IST" duration-ms="5101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutUs -->
+        <test-method signature="Logout()[pri:11, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:58:01 IST" name="Logout" finished-at="2024-05-07T17:58:02 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method signature="InvalidLogin()[pri:12, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:58:02 IST" name="InvalidLogin" finished-at="2024-05-07T17:58:02 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+        <test-method is-config="true" signature="closebrower()[pri:0, instance:TestSuites.TestCases@53fb3dab]" started-at="2024-05-07T17:58:02 IST" name="closebrower" finished-at="2024-05-07T17:58:03 IST" duration-ms="1079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrower -->
+      </class> <!-- TestSuites.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
